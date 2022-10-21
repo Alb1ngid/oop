@@ -9,3 +9,4 @@ class Human:
     def age1(self,a):
         print(self.age+a)
 
+class A:...
