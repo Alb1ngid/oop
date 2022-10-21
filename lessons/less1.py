@@ -6,7 +6,8 @@ class Human:
     def a(self):
         print('my name is ' + self.name)
 
-    def age1(self,a):
-        print(self.age+a)
+    def age1(self, a):
+        print(self.age + a)
 
-class A:...
+
+class A: ...

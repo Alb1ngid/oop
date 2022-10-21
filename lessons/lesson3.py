@@ -56,6 +56,9 @@ class Adahan:
     #     print(self.mack + ' eating to Adahan')
 
 
+class A:...
+
+
 class Mikhail(Human, Adahan):
     def __init__(self, name, age, mack):
         Human.__init__(self, name, age)
