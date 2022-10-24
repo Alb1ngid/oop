@@ -1,2 +1,2 @@
 git = 'Beka'
-git='git'
+git = 'git'
