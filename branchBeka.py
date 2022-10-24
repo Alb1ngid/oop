@@ -1,3 +1,3 @@
 git = 'Beka'
 git = 'git'
-o
+o=1
