@@ -1,1 +1,2 @@
 git = 'Beka'
+git='git'
