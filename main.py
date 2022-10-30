@@ -6,3 +6,4 @@ print(person)
 bektur = create('Bektur', 'Karimov', 10)
 print(bektur.full())
 
+
